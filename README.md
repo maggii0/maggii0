@@ -2,7 +2,7 @@
 
 - Hi, I'm **[Gianluca Maggiorotto]** also known as **maggii0**.
 - You can find out more about me [here](https://maggii0.github.io)
-- I'm interested in Machine Learning and AI right now, but change focus constantly :p
+- I'm interested in Machine Learning and AI right now, but change focus constantly and eager to learn new things:p
 - I'm currently learning Python, C++, AWS and Azure
 - Please email me at [maggiorottogianluca@gmail.com](mailto:maggiorottogianluca@gmail.com) if you'd like to get in touch.
 
@@ -33,3 +33,13 @@
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# Some of my hobbies
+![My Stressful Relax](https://steamcommunity.com/profiles/76561198277770481/)
+## List of languages I know and love to learn more about:
+- Spanish (native)
+- Catalan (native)
+- Italian (native)
+- English (B2-C1 level, still need to certificate)
+- Chinese (toddler level but daily practice)
+- Japanese (Basic sytanx and little knowledge, can't read any kanji tho)
