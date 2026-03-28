@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Some of my hobbies
-![My Stressful Relax](https://steamcommunity.com/profiles/76561198277770481/)
+[My Stressful Relax](https://steamcommunity.com/profiles/76561198277770481/)
 ## List of languages I know and love to learn more about:
 - Spanish (native)
 - Catalan (native)
