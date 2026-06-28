@@ -2,8 +2,8 @@
 
 - Hi, I'm **[Gianluca Maggiorotto]** also known as **maggii0**.
 - You can find out more about me [here](https://maggii0.github.io)
-- I'm interested in Machine Learning and AI right now, but change focus constantly and eager to learn new things:p
-- I'm currently learning Python, C++, AWS and Azure
+- I'm interested in Machine Learning, AI and Cloud Computing right now, but change focus constantly and eager to learn new things:p
+- I'm currently learning Python, C, AWS and GCP
 - Please email me at [maggiorottogianluca@gmail.com](mailto:maggiorottogianluca@gmail.com) if you'd like to get in touch.
 
 ### Courses I've Completed
